@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ReactJsSpa/static/css/main.e24eb35c.css",
+    "main.js": "/ReactJsSpa/static/js/main.76a4eb62.js",
+    "static/media/cooking.jpg": "/ReactJsSpa/static/media/cooking.6462a82735b3c1fd32e5.jpg",
+    "static/media/community.jpg": "/ReactJsSpa/static/media/community.0e003ee59ac351a2d3fa.jpg",
+    "static/media/recipy.jpg": "/ReactJsSpa/static/media/recipy.016ca565bd440a7752c1.jpg",
+    "static/media/contact.jpg": "/ReactJsSpa/static/media/contact.33afbc7cd6179e76dc14.jpg",
+    "index.html": "/ReactJsSpa/index.html",
+    "main.e24eb35c.css.map": "/ReactJsSpa/static/css/main.e24eb35c.css.map",
+    "main.76a4eb62.js.map": "/ReactJsSpa/static/js/main.76a4eb62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e24eb35c.css",
+    "static/js/main.76a4eb62.js"
+  ]
+}
